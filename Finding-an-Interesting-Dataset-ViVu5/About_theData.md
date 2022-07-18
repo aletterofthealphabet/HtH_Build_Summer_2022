@@ -11,5 +11,13 @@ This dataset came from [this kaggle link](https://www.kaggle.com/datasets/aditya
 No. | Question
 :-:|:-
 1 | How does pH affect potability?
-2 | Is it better for a point guard to score more points or to get more assist ?
+2 | Does water hardness affect potability?
+3 | Does potability affect conductivity?
+4 | How much water is potable in the dataset?
+5 | Does sulfate affect potability?
+6 | Does trihalomethanes affect potability?
+7 | Does organic carbons affect potability?
+8 | What is the average ph of the water samples?
+9 | What is the average hardness of the water samples?
+10 | What is the average portability of the water samples?
 
