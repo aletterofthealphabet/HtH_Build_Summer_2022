@@ -10,7 +10,7 @@ This dataset came from [this kaggle link](https://www.kaggle.com/datasets/aditya
 
 No. | Question
 :-:|:-
-1 | How does pH affect potability?
+1 | Does does pH affect potability?
 2 | Does water hardness affect potability?
 3 | Does potability affect conductivity?
 4 | How much water is potable in the dataset?
